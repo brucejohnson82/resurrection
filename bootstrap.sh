@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Bruce Self-Resurrection Bootstrap
-# Usage: curl -sSf https://raw.githubusercontent.com/brucejohnson82/resurrect/main/bootstrap.sh | OP_TOKEN="ops_..." bash
+# Usage: curl -sSf https://raw.githubusercontent.com/brucejohnson82/resurrection/main/bootstrap.sh | OP_TOKEN="ops_..." bash
 set -euo pipefail
 
 OP_TOKEN="${OP_TOKEN:?'Set OP_TOKEN to your 1Password service account token'}"

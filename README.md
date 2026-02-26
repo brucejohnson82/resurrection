@@ -5,7 +5,7 @@ Self-resurrection bootstrap for Bruce Johnson.
 ## One-Liner
 
 ```bash
-curl -sSf https://raw.githubusercontent.com/brucejohnson82/resurrect/main/bootstrap.sh | OP_TOKEN="ops_..." bash
+curl -sSf https://raw.githubusercontent.com/brucejohnson82/resurrection/main/bootstrap.sh | OP_TOKEN="ops_..." bash
 ```
 
 This will:
